@@ -2,8 +2,8 @@
 _G.autocollect = true 
 
 -- Konfigurasi
-local DELAY_ANTAR_TITIK = 0.5 
-local COOLDOWN_LOOP = 30      
+local DELAY_ANTAR_TITIK = 0.05 
+local COOLDOWN_LOOP = 60      
 local RANGE_DETEKSI = 200 -- Range deteksi awal agak digedein biar pasti dapet
 
 local player = game.Players.LocalPlayer
